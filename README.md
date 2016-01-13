@@ -1,3 +1,3 @@
 # About This program
 
-This program is short training material for learning Processing.
+This is short training program for learning Processing.
