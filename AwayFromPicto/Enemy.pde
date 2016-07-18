@@ -8,6 +8,7 @@ class Enemy extends Human {
     super(name, x, y);
     dx = (int)random(11) - 5;
     dy = (int)random(11) - 5;
+    stand = loadImage("goseicho2.png");
   }
 
   void update(){

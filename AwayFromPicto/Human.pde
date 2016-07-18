@@ -1,6 +1,6 @@
 class Human {
   private String name;  // 名前
-  private PImage stand = loadImage("goseicho1.png");
+          PImage stand;
   private int x;
   private int y;
 
